@@ -1,0 +1,11 @@
+preprocess:
+  input: data/raw/data.csv
+  output: data/processed/data_processed.csv
+
+
+train:
+  data: data/processed/data_processed.csv
+  model: models/model.pkl
+  random_state: 101
+  n_estimators: 100
+  max_depth: 5 
