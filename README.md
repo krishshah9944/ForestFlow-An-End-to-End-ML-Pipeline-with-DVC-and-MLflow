@@ -2,7 +2,7 @@
 
 ForestFlow is a robust end-to-end machine learning pipeline that integrates **DVC (Data Version Control)** and **MLflow** to streamline data management, experiment tracking, and model deployment. This project automates the ML lifecycle, ensuring reproducibility and efficient model development.
 
-## 🚀 Feature
+## 🚀 Features
 
 - **Data Versioning**: Utilizes DVC to manage datasets efficiently.
 - **Experiment Tracking**: Uses MLflow to log and compare model performance.
